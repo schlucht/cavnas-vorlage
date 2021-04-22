@@ -1,0 +1,24 @@
+{
+  "name": "cavnas-vorlage",
+  "version": "1.0.0",
+  "description": "Vorlage für Typscript, Sass und Canvas",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schlucht/cavnas-vorlage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schlucht/cavnas-vorlage/issues"
+  },
+  "homepage": "https://github.com/schlucht/cavnas-vorlage#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
